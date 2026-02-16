@@ -28,3 +28,6 @@ Experiment with transfer learning (ResNet, EfficientNet)
 Extend detection to video and audio deepfakes
 Integrate Explainable AI (XAI) techniques
 Deploy as a web application
+## Repository Structure
+- deepfake_cnn_model.ipynb : CNN model implementation and training
+- README.md : Project documentation
